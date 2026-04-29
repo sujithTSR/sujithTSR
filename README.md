@@ -2,7 +2,7 @@
 
 ### 👋 Hey, I’m Sujith
 
-# Senior Software Engineer 🧑‍💻
+# Software Engineer 🧑‍💻
 
 #### Mobile systems • Architecture • AI workflows • Developer tooling
 
@@ -75,14 +75,7 @@ Reliability comes first. Elegance usually follows.
 
 ### 🔗 Elsewhere
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sujith-thotlapalepu-a5284a93/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/5222029/sujith-royal">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="mailto:sujith.royal.216@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujith-thotlapalepu-a5284a93/) — work, career updates and engineering thoughts  
+- 🧠 [Stack Overflow](https://stackoverflow.com/users/5222029/sujith-royal) — questions, answers and dev activity  
+- ✉️ [Email](mailto:sujith.royal.216@gmail.com) — open to good engineering conversations  
+
